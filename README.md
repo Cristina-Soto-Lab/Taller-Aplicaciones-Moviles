@@ -41,4 +41,9 @@ El objetivo fue compilar y ejecutar un programa básico sin el uso de un IDE, ut
 
 ## 📌 Ejecución del Programa
 1. Abrir CMD.  
-2. Navegar a la carpeta donde está el archivo:  
+2. Navegar a la carpeta donde está el archivo:
+3. Compilar el programa:
+4. Ejecutar el programa:  
+
+
+   
