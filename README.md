@@ -1,4 +1,4 @@
-Taller de Aplicaciones Móviles - Semana 3  
+Taller de Aplicaciones Móviles - Semanam 3  
 
 Este repositorio contiene el programa en Java desarrollado como parte de la actividad Sumativa.  
 El objetivo fue compilar y ejecutar un programa básico sin el uso de un IDE, utilizando únicamente el compilador `javac` y la máquina virtual de Java (JVM).  
